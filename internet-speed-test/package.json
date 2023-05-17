@@ -1,0 +1,16 @@
+{
+  "name": "internet-speed-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-speedtest-api": "^0.3.2",
+    "speedtest-net": "^2.2.0"
+  }
+}
